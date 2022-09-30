@@ -1,0 +1,41 @@
+#umm {
+    font-family: Georgia, serif;
+    color: rgb(91, 103, 129);
+    border: solid;
+    text-align: center;
+    
+
+}
+
+.divGrid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+.divIndex {
+    
+    display: grid;
+    
+    font-family: Georgia, serif;
+    color: rgb(91, 103, 129);
+    border-right: 2px solid rgb(91, 103, 129);
+   
+}
+
+ul {
+    display: grid;
+    padding-inline-start: 20px;
+}
+
+.paragraph {
+    display: grid;
+    
+    font-family: Georgia, serif;
+    color: rgb(91, 103, 129);
+
+}
+
+.divLoginForm {
+    display: grid;
+}
